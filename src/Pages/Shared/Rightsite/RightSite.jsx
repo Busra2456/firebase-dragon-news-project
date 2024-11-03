@@ -1,7 +1,7 @@
  import  QZone1 from '../../../assets/assets/qZone1.png'
  import  QZone2 from '../../../assets/assets/qZone2.png'
  import  QZone3 from '../../../assets/assets/qZone3.png'
- import  QZone4 from '../../../assets/assets/bg.png'
+
 import { FaGoogle, FaGithub, FaFacebook,  FaTwitter,FaInstagram     } from 'react-icons/fa';
 
 const RightSite = () => {
