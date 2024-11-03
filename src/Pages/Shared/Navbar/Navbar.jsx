@@ -11,6 +11,7 @@ const Navbar = () => {
       
            <li><NavLink to="/about">About</NavLink></li>
            <li><NavLink to="/career">Career</NavLink></li>
+           <li><NavLink to="/Login">Login</NavLink></li>
            </>
           
       
@@ -55,7 +56,7 @@ const Navbar = () => {
             src={logo} />
         </div>
       </div>
-                  <Link><button className="btn" >Login</button></Link>
+                  <Link to="/Login" ><button className="btn" >Login</button></Link>
               
             </div>
           </div>         
